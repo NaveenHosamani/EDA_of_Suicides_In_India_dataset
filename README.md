@@ -28,9 +28,7 @@ README.md: This file, providing an overview of the project.
 - Clone this repository to your local machine.
 - Install the necessary dependencies using pip install -r requirements.txt.
 - Navigate to the Notebooks directory.
-- Open and run the Jupyter notebooks in the following order:
-  1_Data_Cleaning.ipynb: Data cleaning and preprocessing.
-  2_Exploratory_Data_Analysis.ipynb: Exploratory data analysis and visualization.
+- Open and run the Jupyter notebook
 - Explore the findings and insights generated from the analysis.
 
 ### Conclusion
